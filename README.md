@@ -1,8 +1,9 @@
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500" height="300">
  <div id="badges">
- <a href="linkedin.com/robert-heitor-de-carvalho">
+ <a href="https://linkedin.com/robert-heitor-de-carvalho">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
+  </a>
  </div>
   <img src="https://komarev.com/ghpvc/?username=roberthcjr&style=flat-square&color=blue" alt="views counter"/>
  <h1>
@@ -10,8 +11,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  </h1>
 </div>
-
-### Salut, I'm Robert Heitor! 👋
 
 
 - 🔭 I’m currently working on nothing :cry:
