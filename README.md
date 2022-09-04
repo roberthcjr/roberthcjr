@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
- <img src = "https://www.freepik.com/free-vector/code-typing-concept-illustration_10594781.htm#query=develop&position=3&from_view=search" width="500" height="300">
+ <img src = "https://freesvg.org/programming-addictive-sign-vector-image" width="500" height="300">
 </div>
 
 ---
