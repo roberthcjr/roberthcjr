@@ -50,6 +50,10 @@ I am a Júnior Front-End Developer <img src="https://media.giphy.com/media/WUlpl
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 
-<div align="center">
- <img src = "https://github-readme-stats.vercel.app/api?username=roberthcjr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-</div>
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roberthcjr&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberthcjr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
