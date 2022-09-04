@@ -26,7 +26,7 @@ I am a Júnior Front-End Developer <img src="https://media.giphy.com/media/WUlpl
 - 👯 I’m looking to collaborate on anything that I can help
 - 🤔 I’m looking for help with growing my knowledge
 - 💬 Ask me about any tech related stuff
-- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/robert-heitor-de-carvalho) [![E-mail Badge](https://img.shields.io/badge/E--mail-white?style=flat&logo=Gmail&logoColor=red)](roberthcjr1999@gmail.com)
+- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/robert-heitor-de-carvalho)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can split my tongue in two
 
