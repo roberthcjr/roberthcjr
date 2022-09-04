@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
- <img src = "https://media.giphy.com/media/NPXkCN2FutVO1Nt4P9/giphy.gif">
+ <img src = "https://www.freepik.com/free-photo/rear-view-programmer-working-all-night-long_5698334.htm#query=develop&position=0&from_view=search">
 </div>
 
 ---
