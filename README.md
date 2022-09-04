@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
- <img src = "https://www.freepik.com/free-photo/rear-view-programmer-working-all-night-long_5698334.htm#query=develop&position=0&from_view=search" width="500" height="300">
+ <img src = "https://www.freepik.com/free-vector/code-typing-concept-illustration_10594781.htm#query=develop&position=3&from_view=search" width="500" height="300">
 </div>
 
 ---
