@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
- <img src = "https://freesvg.org/programming-addictive-sign-vector-image" width="500" height="300"/>
+ <img src = "https://stocksnap.io/photo/coding-programming-CWYK8CLC61" width="500" height="300"/>
 </div>
 
 ---
