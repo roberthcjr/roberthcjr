@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300" height="150"/>
+ <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="250" height="150"/>
  <div id="badges">
  <a href="https://br.linkedin.com/in/robert-heitor-de-carvalho">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
