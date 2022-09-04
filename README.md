@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500" height="300"/>
+ <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300" height="150"/>
  <div id="badges">
  <a href="https://br.linkedin.com/in/robert-heitor-de-carvalho">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
@@ -13,8 +13,9 @@
 </div>
 
 <div align="center">
- <img src = "https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="300"/>
+ <img src = "./img/divisor.jpg" width="500" height="300"/>
 </div>
+
 
 ---
 
@@ -22,7 +23,7 @@
 
 I am a Júnior Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Brazil.
 - 🔭 I’m currently working on nothing :cry:
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently learning Back-End development
 - 👯 I’m looking to collaborate on anything that I can help
 - 🤔 I’m looking for help with growing my knowledge
 - 💬 Ask me about any tech related stuff
