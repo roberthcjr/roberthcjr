@@ -22,8 +22,8 @@
 ### :man_technologist: About Me:
 
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Brazil.
-- 🔭 I’m currently working on nothing :cry:
-- 🌱 I’m currently learning Back-End development
+- 🔭 I’m currently working with EducareBox to change the way schools lead with their rotine.
+- 🌱 I’m currently learning lambdas with docker.
 - 👯 I’m looking to collaborate on anything that I can help
 - 🤔 I’m looking for help with growing my knowledge
 - 💬 Ask me about any tech related stuff
