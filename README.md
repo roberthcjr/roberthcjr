@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me:
 
-I am a Júnior Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Brazil.
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Brazil.
 - 🔭 I’m currently working on nothing :cry:
 - 🌱 I’m currently learning Back-End development
 - 👯 I’m looking to collaborate on anything that I can help
